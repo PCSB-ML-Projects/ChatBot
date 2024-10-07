@@ -18,17 +18,23 @@ from haystack.nodes import BM25Retriever
 from pprint import pprint
 from json import loads, dumps
 import numpy as np
+import pdfplumber
 
 #API key for huggingface
-HF_TOKEN = "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" 
+HF_TOKEN = "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" 
 
 #loading the data from the json file i.e. Rag Database
-with open('RagData.json', 'r') as f:
-    data = loads(f.read())
-
+with pdfplumber.open('Xenia Rulebook.pdf') as pdf:
+    # data = loads(f.read())
+    text = ''
+    for page in pdf.pages:
+        text += page.extract_text()
 
 #splitting the data into 'n' parts
-docs = np.array_split(data, 50)
+# docs = np.array_split(data, 5)
+docs = np.array_split([text], 50)
+
+print(docs)
 docs = [str(doc.tolist()) for doc in docs]
 docs = [Document(content=doc) for doc in docs]
 
@@ -39,17 +45,16 @@ ppdocs = processor.process(docs)
 #storing the data in memory
 docu_store = InMemoryDocumentStore(use_bm25=True)
 docu_store.write_documents(ppdocs)
-retriever = BM25Retriever(docu_store, top_k = 1) #retriever to retrieve the data from the document store k = no. of documents to retrieve
-
+retriever = BM25Retriever(docu_store, top_k = 4) #retriever to retrieve the data from the document store k = no. of documents to retrieve
 
 #prompt model to query the data
 qa_template = PromptTemplate(
     prompt =
     '''
-    <PrePrompt>                                                   # This is a prompt to query the model to what to do before the user query. Describe the role of the llm here
-    Context: {join(documents)};                                   # This is the retrived data. Closest K docs
-    Prompt: {query}                                               # This is the user query. 
-    <PostPrompt>                                                  # This is the post prompt to specify additional operations on result. Describe the output format here
+    You are an AI chatbot your task is to give info about the events.
+    Provide info from data provided to you. Don't provide extra information.                                      
+    Context: {join(documents)};
+    Prompt: {query}
     '''
 )
 
@@ -60,7 +65,6 @@ prompt_node = PromptNode(
     max_length = 2500,                                            #max length of the output
     model_kwargs={"model_max_length":20000}                       #max length of the input
 )
-
 
 #pipeline to query the model
 rag_pipeline = Pipeline()
@@ -84,11 +88,9 @@ def return_ans(q):
         }
         return response
 
-
-
 #to test the model
 
-# q = f"This is regarding purchase of your new computer server. please send me purchase order of the same."
+# q = f"team size of concepts event?"
 # ans = rag_pipeline.run(query = q)
 
 # print(type(ans['results']))
@@ -96,7 +98,7 @@ def return_ans(q):
 # for i in ans['results']:
 #     print(i.strip())
 
-# while 1:
-#     q = input("Enter query: ")
-#     ans = rag_pipeline.run(query = q)
-#     print(ans['results'][0])
+while 1:
+    q = input("Enter query: ")
+    ans = rag_pipeline.run(query = q)
+    print(ans['results'][0])
