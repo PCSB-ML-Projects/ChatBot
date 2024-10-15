@@ -24,11 +24,14 @@ import pdfplumber
 HF_TOKEN = "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" 
 
 #loading the data from the json file i.e. Rag Database
-with pdfplumber.open('Xenia Rulebook.pdf') as pdf:
-    # data = loads(f.read())
-    text = ''
-    for page in pdf.pages:
-        text += page.extract_text()
+# with pdfplumber.open('Xenia Rulebook.pdf') as pdf:
+#     # data = loads(f.read())
+#     text = ''
+#     for page in pdf.pages:
+#         text += page.extract_text()/
+with open("info.txt",'r') as f :
+    text = f.read()
+
 
 #splitting the data into 'n' parts
 # docs = np.array_split(data, 5)
@@ -98,7 +101,7 @@ def return_ans(q):
 # for i in ans['results']:
 #     print(i.strip())
 
-while 1:
-    q = input("Enter query: ")
-    ans = rag_pipeline.run(query = q)
-    print(ans['results'][0])
+# while 1:
+    # q = input("Enter query: ")
+    # ans = rag_pipeline.run(query = q)
+    # print(ans['results'][0])

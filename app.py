@@ -11,9 +11,12 @@ CORS(app)
 def home():
     return "Hello, World!"
 
-@app.route('/endpoint', methods=["POST"])
-def classify():
+@app.route('/ask', methods=["POST"])
+def ask():
+    print("asking llm")
     data = request.get_json()        #getting the data from the request
+    print("data extracted successfully")
+    print(data)
     query = str(data["content"])     #getting the query from the data
     print(query)
     try:
