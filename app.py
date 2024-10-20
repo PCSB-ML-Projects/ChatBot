@@ -1,10 +1,10 @@
 from flask import Flask, request, jsonify
-from llm import return_ans
+from llm import ask
 #importing the function to query the model
 
 from json import loads, dump
 from flask_cors import CORS
-app = Flask(__name__)
+app = Flask(_name_)
 CORS(app)
 
 @app.route('/')
@@ -12,15 +12,15 @@ def home():
     return "Hello, World!"
 
 @app.route('/ask', methods=["POST"])
-def ask():
+def xask():
     print("asking llm")
     data = request.get_json()        #getting the data from the request
     print("data extracted successfully")
     print(data)
-    query = str(data["content"])     #getting the query from the data
+    query = str(data["query"])     #getting the query from the data
     print(query)
     try:
-        response = return_ans(query) #querying the model
+        response = ask(query) #querying the model
         response = {
             "data" : response,
             "status":200,
@@ -36,5 +36,5 @@ def ask():
         }
         return jsonify(response)
 
-if __name__ == '__main__':
+if _name_ == '_main_':
     app.run(port=5000, host="0.0.0.0", debug=True)

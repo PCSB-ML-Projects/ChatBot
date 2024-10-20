@@ -1,248 +1,145 @@
-SCHEDULE
- SCHEDULE
- HACK-AI-THON
- HACK-AI-THON
- Seminars: 31 Jan & 1 Feb
- Round 1: 2nd Feb, 10am onwards
- Round 2: 4th Feb, 9am-2pm
- XENOGIC
- XENOGIC
- Round 1: 2nd Feb, 6:00pm-6:30pm
- Round 2: 3rd Feb, 2pm-3pm
- Round 3: 4th Feb, 11am-12pm
- XENALYTICS
- XENALYTICS
- Round 1: 2nd Feb, 9am - Datasets
- released, 12-6pm - News broadcasting
- Round 2: 3rd Feb, 2pm-6pm 
-XENATHON
- XENATHON
- Ideathon
- R1: 2nd Feb ti l 6:30pm
- R2: 4th Feb 1-3pm
- CODESTRIKE
- CODESTRIKE
- Round 1: 1st Feb, 8-10pm
- Round 2: 2nd Feb, 9-11pm
- ChannelXpo
- R1: 1st Feb ti l 10pm
- R2: 4th Feb 10-12pm
-SCHEDULE
- SCHEDULE
- NINJA CODING
- NINJA CODING
- Round 1: 2nd Feb, 7-8pm
- Round 2: 3rd Feb, 9-11:15pm
- FANDOM
- FANDOM
- Round 1: 2nd Feb, 4:15-6:15pm
- Round 2: 3rd Feb, 12:00-1:00pm
- C2C
- C2C
- Round 1: 1st Feb, 5:00-5:30pm
- Round 2: 2nd Feb, 4:45-5:45pm
- Round 3: 3rd Feb, 10-11am
- CRICWARS
- CRICWARS
- Round 1: 1st Feb, 10-11pm
- Round 2: 2nd Feb, 4-5pm
- Round 3: 10am onwards
- DECRYPTO HUNT
- DECRYPTO HUNT
- Round 1: 1st Feb, 5:30-6:30pm
- Round 2: 3rd Feb, 11am-12pm
-CONTENTS
- CONTENTS
- HACK-AI-THON
- HACK-AI-THON
- XENALYTICS
- XENALYTICS
- XENOGIC
- XENOGIC
- XENATHON
- XENATHON
- CODESTRIKE 
-CODESTRIKE
- NINJA CODING
- NINJA CODING
- 1-2
- 1-2
- 3-5
- 3-5
- 6-8
- 6-8
- 9-12
- 9-12
- 13-14
- 13-14
- 15-16
- 15-16
- CAMPUS TO CORPORATE
- CAMPUS TO CORPORATE
- FANDOM
- FANDOM
- CRICWARS
- CRICWARS
- DECRYPTO HUNT
- 17-18
- 17-18
- 19-20
- 19-20
- 21-25
- 21-25
- 26-27
- 26-27
- DECRYPTO HUNT
- HACK-AI-THON
+HACK-AI-THON
 GENERAL INSTRUCTIONS
- GENERAL INSTRUCTIONS
- Registration fee for this event is Rs. 120 only.
- The hackathon registration form is posted on Unstop.
- Each team must decide upon a team leader, and he/she
- must fi l the form on behalf of the team.
- Team size: 2 to 4 members.
- Problem statements wi l be released on 30/01/24.
- ROUND 1
- ROUND 1 
-Teams must report to the specified venue in their
- respective time slots with their 
-presentations.
- Each team must present their approach to a solution based
- ONE problem statement 
-of their choice.
- Presentations must be precise and contain no more than 4
- slides.
- Each team shal present for not more than 5-7 minutes.
- Teams wil be evaluated based on their presentations and
- proof of concept.
- Selected teams wi l advance to Final Round.
-ROUND 2
- ROUND 2
- Teams selected for the Final Round can start working on
- their projects immediately.
- 3rd February:
- Teams can remotely work on the problem statement
- selected by them.
- Since there are no restrictions herein, teams are
- expected to come up with innovative solutions that
- contain key differentiating factors when compared to
- existing solutions. This wi l be one of the primary
- evaluation criteria.
- 4th February (offline):
- Teams need to be present at the specified venue with
- their projects for the completion phase.
- Judges wi l review the projects and suggest runtime
- changes which the teams need to implement efficiently.
- Teams wil be evaluated on this basis.
- There is NO RESTRICTION on use of any and al
- resources available.
- Datasets wi l NOT be provided by the organizers and can
- be obtained from online sources (Kaggle, Google
- Dataset Search, etc.)
-GENERAL INSTRUCTIONS
-XENALYTICS
- GENERAL INSTRUCTIONS
- Xenalytics is an event that integrates finance analytics
- with the strength of AI and machine learning
- effortlessly.
- This event is based on a broad dataset, which includes
- the stock prices of companies for a period of 50 days.
- The main focus of Phase 1 is to explore the dataset,
- news and use advanced analytics and ML model training
- techniques.
- In Phase 2, participants present their analysis reports,
- ML models and charts/visualizations in a competitive
- showcase.
- This ends up to a very interesting pitch economic
- investment strategies to a board of respected judges.
- The service offered by Xenalytics is dynamic as it
- combines financial insights with machine learning
- competence, which gives a path to innovation and
- cooperation between finance and technology.
-RULES
- RULES
- Team should consist of 1-3 members.
- Presentation round is divided into two parts:
- a. Pitch - 15 minutes
- b. QnA - 5 minutes.
- At time of presentation you are expected to have a
- Strategy report, and PPT. 
-These may contain your Visualisations, predictions of
- ML model, etc.
- Allowed Report types - PDF.
- Allowed Data visualisation tools - PowerBi, Tableau,
- Matplotlib, Seaborn.
- Competitors are free to use any ML libraries.
- Use of AI assistants like ChatGPT, Bard, etc. are
- prohibited.
- Your content will be scanned to detect whether it is AI
- generated
-REPORT FORMAT
- REPORT FORMAT
- 1.
- 2.
- 3.
- 4.
- Your proposed company/companies for investment.
- Strategy/ Reason
- Data visualisations
- Results of ML model
- MARKING SCHEME
- MARKING SCHEME
- Application of AI/ML - 20
- Data visualisations - 20
- Report - 15
- Strategy of investment - 15
- Investment of judges in proposed company - 10
- Presentation skills - 10
- QnA - 10
-GENERAL INSTRUCTIONS
-XENOGIC
- GENERAL INSTRUCTIONS
- Al rounds are individual and group participation is not
- a lowed.
- Judging criteria are established and fixed for each round
- to ensure fairness.
- Extra time won’t be a located unless some technical glitch
- occurs.
- The venues for each round wi l be communicated wel in
- advance to a l participants. 
-Al participants are supposed to register individua ly for
- Round 1 through the Xenia web portal or application.
-ROUND 1 
+Registration fee for this event is Rs. 120 only.
+The hackathon registration form is posted on Unstop.
+Each team must decide upon a team leader, and he/she
+must fi l the form on behalf of the team.
+Team size: 2 to 4 members.
+Problem statements wi l be released on 30/01/24.
 ROUND 1
- This round wi l be conducted in online mode. 
-This round wi l consist of 35 logic-based and aptitude
- questions which wi l check the efficiency and problem
+Teams must report to the specified venue in their
+respective time slots with their 
+presentations.
+Each team must present their approach to a solution based
+ONE problem statement 
+of their choice.
+Presentations must be precise and contain no more than 4
+slides.
+Each team shal present for not more than 5-7 minutes.
+Teams wil be evaluated based on their presentations and
+proof of concept.
+Selected teams wi l advance to Final Round.
+ROUND 2
+Teams selected for the Final Round can start working on
+their projects immediately.
+3rd February:
+Teams can remotely work on the problem statement
+selected by them.
+Since there are no restrictions herein, teams are
+expected to come up with innovative solutions that
+contain key differentiating factors when compared to
+existing solutions. This wi l be one of the primary
+evaluation criteria.
+4th February (offline):
+Teams need to be present at the specified venue with
+their projects for the completion phase.
+Judges wi l review the projects and suggest runtime
+changes which the teams need to implement efficiently.
+Teams wil be evaluated on this basis.
+There is NO RESTRICTION on use of any and al
+resources available.
+Datasets wi l NOT be provided by the organizers and can
+be obtained from online sources (Kaggle, Google
+Dataset Search, etc.)
+???
+XENALYTICS
+GENERAL INSTRUCTIONS
+Xenalytics is an event that integrates finance analytics
+with the strength of AI and machine learning
+effortlessly.
+This event is based on a broad dataset, which includes
+the stock prices of companies for a period of 50 days.
+The main focus of Phase 1 is to explore the dataset,
+news and use advanced analytics and ML model training
+techniques.
+In Phase 2, participants present their analysis reports,
+ML models and charts/visualizations in a competitive
+showcase.
+This ends up to a very interesting pitch economic
+investment strategies to a board of respected judges.
+The service offered by Xenalytics is dynamic as it
+combines financial insights with machine learning
+competence, which gives a path to innovation and
+cooperation between finance and technology.
+RULES
+Team should consist of 1-3 members.
+Presentation round is divided into two parts:
+a. Pitch - 15 minutes
+b. QnA - 5 minutes.
+At time of presentation you are expected to have a
+Strategy report, and PPT. 
+These may contain your Visualisations, predictions of
+ML model, etc.
+Allowed Report types - PDF.
+Allowed Data visualisation tools - PowerBi, Tableau,
+Matplotlib, Seaborn.
+Competitors are free to use any ML libraries.
+Use of AI assistants like ChatGPT, Bard, etc. are
+prohibited.
+Your content will be scanned to detect whether it is AI
+generated
+REPORT FORMAT
+1.
+2.
+3.
+4.
+Your proposed company/companies for investment.
+Strategy/ Reason
+Data visualisations
+Results of ML model
+MARKING SCHEME
+Application of AI/ML - 20
+Data visualisations - 20
+Report - 15
+Strategy of investment - 15
+Investment of judges in proposed company - 10
+Presentation skills - 10
+QnA - 10
+???
+XENOGIC
+GENERAL INSTRUCTIONS
+Al rounds are individual and group participation is not
+a lowed.
+Judging criteria are established and fixed for each round
+to ensure fairness.
+Extra time won’t be a located unless some technical glitch
+occurs.
+The venues for each round wi l be communicated wel in
+advance to all participants. 
+Al participants are supposed to register individua ly for
+through the Xenia web portal or application.
+ROUND 1 
+This round will be conducted in online mode. 
+This round will consist of 35 logic-based and aptitude
+questions which wi l check the efficiency and problem
 solving ski ls of the candidate.
- One mark is awarded for each right answer. There is no
- negative marking.
- The time limit for this round is 30 minutes.
- The top 75 contestants wi l qualify for Round 2
- The time taken to solve the quiz would act as a tiebreaker
- in case of a tie.
- No extra time wi l be alotted.
- ROUND 2
- ROUND 2
- This round is conducted in offline mode.
- The shortlisted students from the Online Aptitude
- cha lenge wi l appear for this round. 
-This is a situation-based round. 20 situations wi l be given
- to the candidate and they are expected to provide
- creative and logical solutions to these situations and write
- them on paper. 
+One mark is awarded for each right answer. There is no
+negative marking.
+The time limit for this round is 30 minutes.
+The top 75 contestants will qualify for Round 2
+The time taken to solve the quiz would act as a tiebreaker
+in case of a tie.
+No extra time will be alotted.
+ROUND 2
+This round is conducted in offline mode.
+The shortlisted students from the Online Aptitude
+cha lenge will appear for this round. 
+This is a situation-based round. 20 situations will be given
+to the candidate and they are expected to provide
+creative and logical solutions to these situations and write
+them on paper. 
 The time limit for this round is 45 minutes.
- No extra time wi l be alotted.
- Candidates must carry a blank paper and a pen with them.
- Based on the solutions' quality, the top 10 contestants wi l
- be selected for the final round.
+No extra time wi l be alotted.
+Candidates must carry a blank paper and a pen with them.
+Based on the solutions' quality, the top 10 contestants will
+be selected for the final round.
 ROUND 3
  ROUND 3
- This round wi l be conducted in offline mode.
- The top 10 finalists wi l appear for this round. 
-This is a Group Planning Exercise (GPE) Round. A l 10 finalists
- wi l be grouped for the activity. 
-A hypothetical situation that requires a solution wi l be
+ This round will be conducted in offline mode.
+ The top 10 finalists will appear for this round. 
+This is a Group Planning Exercise (GPE) Round. All 10 finalists
+ will be grouped for the activity. 
+A hypothetical situation that requires a solution will be
  presented to the group. The group is given a set of resources
  and a limited amount of time to discuss and develop a plan to
  address the situation.
@@ -263,6 +160,7 @@ Time alotted to note down the possible solutions: 10 min.
 The top 2 contestants, who can convince the judges, wi l be
  considered winners and wi l bag the cash prize.
 GENERAL INSTRUCTIONS
+???
 XENATHON
  GENERAL INSTRUCTIONS
  Individual and group size upto 3 members is
@@ -310,6 +208,7 @@ The results wi l be declared on the closing ceremony of our Techfest
  XENIA’24. 
 Winners wi l get the winning certificates and cash prizes. 
 GENERAL INSTRUCTIONS
+???
 CODESTRIKE
  GENERAL INSTRUCTIONS
  Open to colege students with a passion for creating
@@ -359,6 +258,7 @@ The results wi l be declared on the closing ceremony of our Techfest
 Winners wi l get the winning certificates, cash prizes and a shout-out on
  PCSBs’ official Instagram handle.
 GENERAL INSTRUCTIONS
+???
 NINJA CODING
  GENERAL INSTRUCTIONS
  It is a competitive programming contest. 
@@ -401,6 +301,7 @@ Time Limit - 120min
  Leaderboard is ACM Style. There is a penalty of 5 minutes
  for every incorrect submission.
 GENERAL INSTRUCTIONS
+???
 CAMPUS TO CORPORATE
  GENERAL INSTRUCTIONS
  Entries should be pre-registered.
@@ -448,6 +349,7 @@ ROUND 2
  Leaderboard is ACM Style. There is a penalty of 5 minutes
  for every incorrect submission.
 GENERAL INSTRUCTIONS
+???
 FANDOM
  GENERAL INSTRUCTIONS
  Al rounds are individual, and group participation is not
@@ -495,6 +397,7 @@ ROUND 2
  Participants must carry a copy of their resume while
  appearing for the interview
 GENERAL INSTRUCTIONS
+???
 CRICWARS
  GENERAL INSTRUCTIONS
  Participation should be in a group of minimum 2 or
@@ -544,6 +447,7 @@ and the next 5 wil be based on performing hook steps of
  you wil have to put up your points suppressing the others. 
 The top 2 teams wil be promoted to the final round.
  The winner wil be decided from these teams.
+ ???
  DECRYPTO HUNT
 ROUND 1
  ROUND 1

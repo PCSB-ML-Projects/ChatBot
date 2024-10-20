@@ -1,14 +1,15 @@
 import requests
 import json
 
-url = "http://localhost:5000/endpoint"
+# url = "http://localhost:7071/api/xeniachatbot/ask"
+url = "http://localhost:5000/ask"
 
 headers = {
     'Content-Type': 'application/json'
 }
 
 data = {
-    "content": "hi anish how are you doing good how are you im fine"
+    "query": "explain xenalytics event"
 }
 
 # data = {
@@ -20,6 +21,8 @@ data = {
 
 try:
     response = requests.post(url, headers=headers, data=json.dumps(data))
-    print(response.json())
-except:
-    print("timeout")
+    print(response)
+    res = response.json()
+    print(res)
+except Exception as e:
+    print(e)
