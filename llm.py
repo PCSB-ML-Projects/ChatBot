@@ -37,8 +37,8 @@ def ask(query: str) -> str:
     message = client.chat_completion(
         model="mistralai/Mixtral-8x7B-Instruct-v0.1",
         messages=messages,
-        max_tokens=1000,
-        temperature=0.2,
+        max_tokens=2000,
+        temperature=0.4,
         stream=False
     )
     return message.choices[0].message.content

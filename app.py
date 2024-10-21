@@ -4,7 +4,7 @@ from llm import ask
 
 from json import loads, dump
 from flask_cors import CORS
-app = Flask(_name_)
+app = Flask(__name__)
 CORS(app)
 
 @app.route('/')
@@ -36,5 +36,5 @@ def xask():
         }
         return jsonify(response)
 
-if _name_ == '_main_':
+if __name__ == '__main__':
     app.run(port=5000, host="0.0.0.0", debug=True)
