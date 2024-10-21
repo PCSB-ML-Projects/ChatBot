@@ -43,7 +43,7 @@ def ask(query: str) -> str:
     )
     return message.choices[0].message.content
 
-while 1:
-    query = input("Ask query : ")
-    response = ask(query)
-    print(response)
+# while 1:
+#     query = input("Ask query : ")
+#     response = ask(query)
+#     print(response)
