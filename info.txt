@@ -1,624 +1,450 @@
-HACK-AI-THON
+HACK-O-WARTS
 GENERAL INSTRUCTIONS
 Registration fee for this event is Rs. 120 only.
 The hackathon registration form is posted on Unstop.
 Each team must decide upon a team leader, and he/she
-must fi l the form on behalf of the team.
+must fill the form on behalf of the team.
 Team size: 2 to 4 members.
-Problem statements wi l be released on 30/01/24.
+Problem statements will be released on 11/02/2025
+Category 1 : FE
+Category 2 : SE-TE-BE
 ROUND 1
+PRESENTATION ROUND
 Teams must report to the specified venue in their
-respective time slots with their 
-presentations.
-Each team must present their approach to a solution based
-ONE problem statement 
-of their choice.
-Presentations must be precise and contain no more than 4
-slides.
-Each team shal present for not more than 5-7 minutes.
-Teams wil be evaluated based on their presentations and
-proof of concept.
-Selected teams wi l advance to Final Round.
+respective time slots with their presentations.
+Each team must present their approach to a solution
+based ONE problem statement of their choice.
+Presentations must be concise and follow the format
+provided.
+Each team shall present for not more than 5-7 minutes.
+Teams will be evaluated based on their presentations
+and proof of concept.
+Selected teams will advance to Final Round.
 ROUND 2
-Teams selected for the Final Round can start working on
-their projects immediately.
-3rd February:
+FINAL ROUND
+Teams selected for the Final Round can start working
+on their projects immediately.
 Teams can remotely work on the problem statement
 selected by them.
 Since there are no restrictions herein, teams are
 expected to come up with innovative solutions that
 contain key differentiating factors when compared to
-existing solutions. This wi l be one of the primary
+existing solutions. This will be one of the primary
 evaluation criteria.
-4th February (offline):
 Teams need to be present at the specified venue with
 their projects for the completion phase.
-Judges wi l review the projects and suggest runtime
-changes which the teams need to implement efficiently.
-Teams wil be evaluated on this basis.
-There is NO RESTRICTION on use of any and al
+Judges will review the projects and suggest runtime
+changes which the teams need to implement
+efficiently.
+Teams will be evaluated on this basis.
+There is NO RESTRICTION on use of any and all
 resources available.
-Datasets wi l NOT be provided by the organizers and can
-be obtained from online sources (Kaggle, Google
+Datasets will NOT be provided by the organizers and
+can be obtained from online sources (Kaggle, Google
 Dataset Search, etc.)
 ???
-XENALYTICS
+CODER’S CHAMBER
 GENERAL INSTRUCTIONS
-Xenalytics is an event that integrates finance analytics
-with the strength of AI and machine learning
-effortlessly.
-This event is based on a broad dataset, which includes
-the stock prices of companies for a period of 50 days.
-The main focus of Phase 1 is to explore the dataset,
-news and use advanced analytics and ML model training
-techniques.
-In Phase 2, participants present their analysis reports,
-ML models and charts/visualizations in a competitive
-showcase.
-This ends up to a very interesting pitch economic
-investment strategies to a board of respected judges.
-The service offered by Xenalytics is dynamic as it
-combines financial insights with machine learning
-competence, which gives a path to innovation and
-cooperation between finance and technology.
-RULES
-Team should consist of 1-3 members.
-Presentation round is divided into two parts:
-a. Pitch - 15 minutes
-b. QnA - 5 minutes.
-At time of presentation you are expected to have a
-Strategy report, and PPT. 
-These may contain your Visualisations, predictions of
-ML model, etc.
-Allowed Report types - PDF.
-Allowed Data visualisation tools - PowerBi, Tableau,
-Matplotlib, Seaborn.
-Competitors are free to use any ML libraries.
-Use of AI assistants like ChatGPT, Bard, etc. are
-prohibited.
-Your content will be scanned to detect whether it is AI
-generated
-REPORT FORMAT
-1.
-2.
-3.
-4.
-Your proposed company/companies for investment.
-Strategy/ Reason
-Data visualisations
-Results of ML model
-MARKING SCHEME
-Application of AI/ML - 20
-Data visualisations - 20
-Report - 15
-Strategy of investment - 15
-Investment of judges in proposed company - 10
-Presentation skills - 10
-QnA - 10
-???
-XENOGIC
-GENERAL INSTRUCTIONS
-Al rounds are individual and group participation is not
-a lowed.
-Judging criteria are established and fixed for each round
-to ensure fairness.
-Extra time won’t be a located unless some technical glitch
-occurs.
-The venues for each round wi l be communicated wel in
-advance to all participants. 
-Al participants are supposed to register individua ly for
-through the Xenia web portal or application.
-ROUND 1 
-This round will be conducted in online mode. 
-This round will consist of 35 logic-based and aptitude
-questions which wi l check the efficiency and problem
-solving ski ls of the candidate.
-One mark is awarded for each right answer. There is no
-negative marking.
-The time limit for this round is 30 minutes.
-The top 75 contestants will qualify for Round 2
-The time taken to solve the quiz would act as a tiebreaker
-in case of a tie.
-No extra time will be alotted.
-ROUND 2
-This round is conducted in offline mode.
-The shortlisted students from the Online Aptitude
-cha lenge will appear for this round. 
-This is a situation-based round. 20 situations will be given
-to the candidate and they are expected to provide
-creative and logical solutions to these situations and write
-them on paper. 
-The time limit for this round is 45 minutes.
-No extra time wi l be alotted.
-Candidates must carry a blank paper and a pen with them.
-Based on the solutions' quality, the top 10 contestants will
-be selected for the final round.
-ROUND 3
- ROUND 3
- This round will be conducted in offline mode.
- The top 10 finalists will appear for this round. 
-This is a Group Planning Exercise (GPE) Round. All 10 finalists
- will be grouped for the activity. 
-A hypothetical situation that requires a solution will be
- presented to the group. The group is given a set of resources
- and a limited amount of time to discuss and develop a plan to
- address the situation.
- This round is divided into three phases- understanding the
- problem, noting down the possible solutions, and Group
- discussion.
- Time alotted to read the card and understand scenario: 5 min. 
-Time alotted to note down the possible solutions: 10 min.
- Time alotted for Group Discussion: 20 min.
- Each candidate is expected to actively participate in the group
- discussion, contribute ideas, and co lectively arrive at a feasible
- and effective solution.
- They wil be assessed on leadership ski ls, communication
- abilities, decision-making capabilities, and their approach to
- problem-solving.
- Participants are requested to carry a pen and a blank paper with
- them. 
-The top 2 contestants, who can convince the judges, wi l be
- considered winners and wi l bag the cash prize.
-GENERAL INSTRUCTIONS
-???
-XENATHON
- GENERAL INSTRUCTIONS
- Individual and group size upto 3 members is
- a lowed. 
-Registration for Xenathon carried on Xenia main
- website. 
-Al rounds wil be conducted within the co lege
- premises. 
-Themes for the problem statements are
- environment, healthcare, finance and banking,
- agriculture and rural development, education,
- defence and security, lifestyle and entertainment
- media, smart cities ,travel,others(mention).
- The venues for each round wi l be communicated to
- a l participants on Xenathon whatsapp group. 
-The final round wi l remain open for a l the
- participants to spectate and learn from the teams
- that are shortlisted for the final round. 
-ROUND 1
- ROUND 1
- Conducted in online mode.
- Entries for round 1 wi l be taken through google form. 
-Participants can choose any problem statement from the mentioned
- themes. 
-Al the registered teams are required to upload a ppt on 2nd February
- 2024 ti l 6:30 pm. 
-The PPT should not contain more than 6 slides. 
-Slide 1: Title/Problem Statement 
-Slide 2 : Solution
- Slide 3: Market Research and Competition Analysis 
-Slide 4 : Business Model and Prototype 
-Slide 5 : Cha lenges and Mitigations
- Slide 6 : Marketing and Outreach 
-Results of round 1 wi l be declared on 3 rd February 2024 on 12 PM. 
-Short-listed teams wi l be notified via mails.
- ROUND 2
- ROUND 2
- Al the shortlisted teams wi l be required to present their ideas and
- solutions in front of ski led panel of judges. 
-Time limit : 3 minutes for presentation 3 - 4 minutes for Q&A. 
-Participants are requested to present their presentations at the a lotted
- time slots only. 
-The decision of the judges and the organizing team wi l be final. 
-The results wi l be declared on the closing ceremony of our Techfest
- XENIA’24. 
-Winners wi l get the winning certificates and cash prizes. 
-GENERAL INSTRUCTIONS
-???
-CODESTRIKE
- GENERAL INSTRUCTIONS
- Open to colege students with a passion for creating
- YouTube content. 
-Participants can be individuals or team size upto 2
- members is alowed. 
-Registration for Xenathon carried on Xenia main
- website.
- Al rounds wil be conducted within the co lege
- premises. 
-The venues for each round wi l be communicated to
- a l participants on Xenathon whatsapp group. 
-The final round wi l remain open for a l the
- participants to spectate and learn from the teams
- that are shortlisted for the final round. 
-Every participant wi l receive Participation
- Certificate. 
-ROUND 1
- ROUND 1
- Conducted in online mode.
- Al entries for Round 1 must be submitted via the provided Google Form
- on 1st February 2024 ti l 10 PM. 
-Selection wi l be decided on the description of youtube idea and the
- answers to the questionnaire.
- Description of Youtube idea should not exceed 1000 word limit. 
-Shortlisted participants for Round 2 wi l be notified via email on 2nd
- February 2024 at 7 PM.
- ROUND 2
- ROUND 2
- Shortlisted participants are required to prepare a ppt about their
- youtube idea.
- Shortlisted participants are required to present their youtube ideas in
- front of ski led panel of judges. 
-Participants can either present a ppt or a video presentation of not more
- than 3 minutes. 
-The presentation should not exceed 6 slides. 
-Participants wi l have an additional 3 to 4 minutes for a Q&A session with
- the judges.
- Participants wi l be judged based on the uniqueness of their channel
- idea, content quality, presentation ski ls, and responses during the Q&A
- session.
- Participants are requested to present their presentations at the a lotted
- time slots only. 
-The decision of the judges and the organizing team wi l be final. 
-The results wi l be declared on the closing ceremony of our Techfest
- XENIA’24. 
-Winners wi l get the winning certificates, cash prizes and a shout-out on
- PCSBs’ official Instagram handle.
-GENERAL INSTRUCTIONS
-???
-NINJA CODING
- GENERAL INSTRUCTIONS
- It is a competitive programming contest. 
+It is a competitive programming contest. 
 Programmers may take up any language of their choice.
- Entries should be online booked or pre-registered.
- Plagiarism is strictly prohibited.
- If codes of 2 people are found, the same points wi l be
- deducted.
- Programmers may take up any language of their choice. (C,
- C++, Python, Java,etc.)
- Leaderboard is ACM Style. There is penalty of 5 minutes for
- every incorrect submission.
- ROUND 1
- ROUND 1
- Number of Problems - 5 to 6
- Time Limit - 120 min
- Type - ONLINE
- Level - Easy to Medium-Hard
- The top 20 percent of students wi l move to round 2 from
- each category i.e. Junior/Senior.
+Entries should be online booked or pre-registered.
+Plagiarism is strictly prohibited.
+If codes of 2 people are found, the same points will be
+deducted.
+Programmers may take up any language of their choice.
+(C, C++, Python, Java,etc.)
+Leaderboard is ACM Style. There is penalty of 5 minutes
+for every incorrect submission.
+ROUND 1
+Number of Problems - 5 to 6
+Time Limit - 120 min
+Type - ONLINE
+Level - Easy to Medium-Hard
 ROUND 2
- ROUND 2
- Number of Problems - 5 to 6 
+Number of Problems - 5 to 6 
 Time Limit - 120min
- Type - Online
- Level - Medium-Hard to Hard
- SCORING
- SCORING
- Each cha lenge has a pre-determined score.
- A participant wi l get the fu l score for a question only if
- they pass a l test cases.
- If a participant submits more than one solution per
- cha lenge, then the participant’s score wi l reflect the
- highest score achieved. In a game cha lenge, the
- participant's score wi l reflect the last code submission.
- Participants are ranked by score. If two or more
- participants achieve the same score, then the tie is broken
- by the total time taken to submit the last solution resulting
- in a higher score
- Leaderboard is ACM Style. There is a penalty of 5 minutes
- for every incorrect submission.
+Type - Offline
+Level - Medium-Hard to Hard
+SCORING
+Each challenge has a pre-defined score.
+A participant will get the full score for a question only if
+they pass all test cases.
+If a participant submits more than one solution per
+challenge, then the participant’s score will reflect the
+highest score achieved. In a game challenge, the
+participant's score will reflect the last code submission.
+Participants are ranked by score. If two or more
+participants achieve the same score, then the tie is
+broken by the total time taken to submit the last solution
+resulting in a higher score
+Leaderboard is ACM Style. There is a penalty of 5
+minutes
+for every incorrect submission.
+???
+GOBLET OF DEBUGGERS
 GENERAL INSTRUCTIONS
+Entries should be pre-registered.
+Plagiarism is strictly prohibited
+All the submissions will be checked after the contest.
+The organizers have all the rights to disqualify anyone.
+An extra attempt will not be provided in any case.
+The decision of the organizers will be final and binding
+on all participants. Any queries on same will not be
+entertained.
+Leaderboard is ACM Style. There is a penalty of 5
+minutes for every incorrect submission.
+ROUND 1
+Time Limit - 90 min
+Type - Online
+In every question we will provide 3 coding/ tech related
+clues in either ascending or descending order. You have to
+guess the fourth item based on the pattern or logic
+connecting them.
+Questions are a mix of Basic, Advanced, Tricky and/or
+Tough Questions.
+Programming language Covers Basic CPP, C, and python.
+ROUND 2
+Number of Problems - 5 to 6
+Time Limit - 2 hours 
+Type - Online
+Participants have to analyze the logic behind input
+output sets and write a source code for the same.
+SCORING
+Each challenge has a pre-determined score.
+A participant will get the full score for a question only if
+they pass all test cases.
+If a participant submits more than one solution per
+challenge, then the participant’s score will reflect the
+highest score achieved. In a game challenge, the
+participant's score will reflect the last code submission.
+Participants are ranked by score. If two or more
+participants achieve the same score, then the tie is
+broken by the total time taken to submit the last solution
+resulting in a higher score
+Leaderboard is ACM Style. There is a penalty of 5
+minutes
+for every incorrect submission.
 ???
 CAMPUS TO CORPORATE
- GENERAL INSTRUCTIONS
- Entries should be pre-registered.
- Plagiarism is strictly prohibited
- Al the submissions wi l be checked after the contest. The
- organizers have a l the rights to disqualify anyone.
- An extra attempt wi l not be provided in any case.
- The decision of the organizers wi l be final and binding on a l
- participants. Any queries on same wi l not be entertained.
- Leaderboard is ACM Style. There is a penalty of 5 minutes
- for every incorrect submission.
- ROUND 1
- ROUND 1
- Number of MCQ(Multiple Choice Questions) - 30 MCQ
- Time Limit - 1 hour
- Type - Online
- These Programming MCQs contain Programming, Coding,
- Problem Solving, Conceptual, Theoretical, and Diagram
- centric Questions.
- These Programming MCQs also cover True/False or Yes/No
- type of Questions.
- Programming Questions are a mix of Basic, Advanced,
- Tricky and/or Tough Questions.
- Programming language Covers Basic CPP, C, and python.
-ROUND 2
- ROUND 2
- Number of Problems - 5 to 6
- Time Limit - 2 hours 15 mins
- Type - Online
- Participants have to analyze the logic behind input-output
- sets and write a source code for the same.
- SCORING
- SCORING
- Each cha lenge has a pre-determined score.
- A participant wi l get the fu l score for a question only if
- they pass a l test cases.
- If a participant submits more than one solution per
- cha lenge, then the participant’s score wi l reflect the
- highest score achieved. In a game cha lenge, the
- participant's score wi l reflect the last code submission.
- Participants are ranked by score. If two or more
- participants achieve the same score, then the tie is broken
- by the total time taken to submit the last solution resulting
- in a higher score
- Leaderboard is ACM Style. There is a penalty of 5 minutes
- for every incorrect submission.
 GENERAL INSTRUCTIONS
+All rounds are individual, and group participation is not
+allowed.
+Assessments will be conducted in online and offline
+mode as per the round.
+Fixed judging criteria are established for each round,
+ensuring fairness in candidate selection for subsequent
+rounds and winner declaration.
+Dedicated supervisors will be present during each
+round, and participants must strictly adhere to the
+instructions provided by the supervisors.
+Extra time will not be allocated unless a technical glitch
+occurs.
+The venues for each round will be communicated well in
+advance to all candidates.
+ROUND 1
+Conducted in online mode.
+This round will consist of 40 questions and will last for
+30 minutes.
+No extra time will be given.
+There will be 1 mark awarded for every right answer.
+There is no negative marking
+The shortlisted students from Aptitude round will
+proceed to Round 2 i.e. the Coding round
+ROUND 2
+Conducted in offline mode
+Questions will be hostedon the PCSB Coding Platform
+Login credentials will be providedto shortlisted
+candidates
+There will be 3 competitive programming questions and
+roundwill last for 60 minutes
+No extra time will be given
+Participants should bring their own Laptops and
+stationary. 1 Blank sheet is allowedper person
+The shortlisted candidates from the codinground will
+proceedfor Round 3 i.e. Interview and GD
+ROUND 3
+Conducted in offline mode
+Interview and GD venues will be communicated to the
+participants in advance.
+Participants must report 15 mins before the allotted time
+Participants must follow the formal dress code
+Participants must carry a copy of their resume while
+appearing for the interview
 ???
-FANDOM
- GENERAL INSTRUCTIONS
- Al rounds are individual, and group participation is not
- a lowed.
- Al rounds wil be conducted within the co legepremises.
- Fixed judging criteriaare established for each round,
- ensuring fairnessin candidate selectionfor subsequent
- rounds and winnerdeclaration.
- Dedicated supervisors wi l be presentduring each round,
- and participants must strictly adhere to the instructions
- providedby the supervisors.
- Extra time wi l not be a located unlessa technical
- glitchoccurs.
- The venues for each round wi l be communicated wel in
- advanceto a l candidates.
- ROUND 1
- ROUND 1
- Conducted in online mode.
- This round wi l consist of 40 questions and wi l last for 30
- minutes.
- No extra time wi l be given.
- There wi l be 1 mark awarded for every right answer. There
- is no negative marking
- The shortlisted students from Aptitude round wi l proceed
- to Round 2 i.e. the Coding round
-ROUND 2
- ROUND 2
- Conducted in onlinemode
- Questions wi l be hostedon the PCSB Coding Platform
- Login credentials wi l be providedto shortlisted candidates
- There wi l be 3 competitive programming questions and
- roundwi l last for 60 minutes
- No extra time wi l be given
- Participants should bring their own Laptops and stationary.
- 1 Blank sheet is a lowedper person
- The shortlisted candidates from the codinground wi l
- proceedfor Round 3 i.e. Interview and GD
- ROUND 3
- ROUND 3
- Conducted in online mode
- Interview and GD venues wi l be communicated to the
- participants in advance.
- Participants must report 15 mins before the a lotted time
- Participants must fo low the formal dress code
- Participants must carry a copy of their resume while
- appearing for the interview
-GENERAL INSTRUCTIONS
+TUG OF WAR
+OBJECTIVE
+Pull the opposing team across the centerline marker to
+win.
+TIME LIMIT
+Each round will last a maximum of 2 minutes. If no team
+has won by then, the team that pulls the rope closest to
+their zone wins.
+STARTING SIGNAL
+STARTING SIGNAL
+A referee will signal the start with a whistle or "Lumos!"
+shout.
+FOULS
+Letting go of the rope intentionally.
+Sitting or lying down while pulling.
+Use of external equipment (e.g., wands, gloves for grip).
+Any act of unsportsmanlike conduct.
+OTHER INSTRUCTIONS
+Each match consists of three rounds. The team that wins
+two rounds advances.
+Each team must have 4 members.
+Teams are encouraged to name themselves after
+Hogwarts houses, magical creatures, or other Harry
+Potter-related themes.
 ???
 CRICWARS
- GENERAL INSTRUCTIONS
- Participation should be in a group of minimum 2 or
- maximum 5 members.
- Registration Fee for each team wi l be Rs. 75.
- Al the participants must be present 15 minutes before the
- event.
- Participants are required to register on the official website
- of Xenia.
- No third-party entries or transfer of registration wi l be
- entertained.
- Al the participants must maintain proper decorum.
- Any participant caught cheating sha l be disqualified.
- Prize Pool of Rs. 12000 which comprises Rs. 7000 as the first
- prize and Rs. 5000 as the second prize.
- ROUND 1
- ROUND 1
- Consist of 40 MCQs based on the famous series,movies and
- dramas.
- The Game wil be played in Onlinemode every team’sleader
- will be provided with a portal link on which they need to
- answer the multiple choicequestions.
- The marks will be alloted based on correctanswers.
- Top scorers will be promoted to the next round.
-ROUND 2
- ROUND 2
- The round wil be having some special credits on the basis
- of the theme your teammates folow. Teams with the most
- relevant theme wi l get some grace credits through which
- their chance to get to the next round , becomes more.
- Participants wi l be provided with an application of a Buzzer
- and the fastest buzzer activator wi l be given a chance to
- answer the question read out by the host.
- The round wil consist of 15 questions out of which first 10
- wi l be based on one word answer or complete the dialogue 
-and the next 5 wil be based on performing hook steps of
- various popular songs.
- The questions wi l revolve around famous dance moves of
- popular songs, fo lowed by we l-known scene remakes.
- Top 4 teams wil be promoted to the next round.
- ROUND 3
- ROUND 3
- This round consists of 3 GDs of 15 minutes each.
- Each team wil get 10 minutes to prepare for the round.
- The winner of each GD wil go for the final round.
- You wil be provided some hot controversial topics in which
- you wil have to put up your points suppressing the others. 
-The top 2 teams wil be promoted to the final round.
- The winner wil be decided from these teams.
- ???
- DECRYPTO HUNT
 ROUND 1
- ROUND 1
- •Powerplay (15 seconds each)(10 questions)(40 marks): Quick
- and snappy questions to cha lenge your cricket knowledge.
- Each question carries4 marks with 4 marks given for a right
- answer within the first 7 seconds, 2 marks for a right answer
- within the rest of time and 0 marks for an
- incorrect/unattempted answer.
- •Middle (30 secondseach)(15 questions)(30 marks):A bit more
- time to ponder and respond accurately. Each question
- carries 2 marks with 2 marks for a correct answer and 0
- marks for an incorrect answer.
- •Death Overs (1 minute each)(5 questions)(30 marks): The
- final stretch where you' l need to show your in
-depthknowledge. Each questioncarries a maximumof 6
- marks. If there are 3 correct answers, each right answer wi l
- fetch 6/3=2 marks. If there are 2 correct answers, each right
- answer wi l fetch 6/2=3 marks. Any incorrect optionselected
- wi l directlyamount the question to 0 marks.
+Powerplay (15 seconds each)(10 questions)(40 marks): Quick and
+snappy questions to challenge your cricket knowledge. Each question
+carries4 marks with 4 marks given for a right answer within the first
+7 seconds, 2 marks for a right answer within the rest of time and 0
+marks for an incorrect/unattempted answer.
+Middle (30 secondseach)(15 questions)(30 marks):A bit more time to
+ponder and respond accurately. Each question carries 2 marks with 2
+marks for a correct answer and 0 marks for an incorrect answer.
+Death Overs (1 minute each)(5 questions)(30 marks): The final stretch
+where you'll need to show your in-depth knowledge. Each question
+carries a maximum of 6 marks. If there are 3 correct answers, each
+right answer will fetch 6/3=2 marks. If there are 2 correct answers,
+each right answer will fetch 6/2=3 marks. Any incorrect option
+selected will directly amount the question to 0 marks.
+Question Types:
+Questions can be single correct, worth 2/4 marks each (25 questions)
+Multiple correct questions are worth 6 marks each (5 questions), but
+be cautious—selecting incorrect options in these questions means you
+won't earn any points for that particular question.
+Accuracy is Key:
+To succeed, be both quick and accurate in your responses. The faster you
+answer, the better your chances.
+Advancement:
+The top 30 contestants will proceed to the next round. If a contestant
+is absent on the day of round 2, the next in line will have an
+opportunity to participate.
+30 Random questions will be selected for a particular participant
+from a pool of questions.
 ROUND 2
- ROUND 2
- The second round wil be to make the ultimate team.
- Top 30 members shortlisted for round 2 wi l be randomly divided in 5
- groups of 6 participants each.
- On the basis of the given criterions(mentioned below), participants
- need to make the best team possible.
- In this round participants have to assign rating to the players in their
- set on the basis of their likings from 1 to 10.
- Average of a l ratings given by participants of that group to each player
- wi l be displayed in front of every participant.
- Al players in the set wi l be given a fixed price.
- Participants wi l be given a budget in which they need to make the best
- team.
- Also participants wi l be given a stadium , the knowledge/facts about
- the pitch of that stadium should be kept in mind by participants while
- making teams.
- There wi l be deductions or additions in total teams ratings considering
- these stadium factors at the end. (Example = Banglore Pitch is good for
- batters so Batsman ratings in your team wi l increase by +1/+0.5 while
- calculating the final results.)
- Number of players from each category should be taken in
- consideration.
- Criterion for creating teams: 1 wicket keeper, 3 batsman, 3 bowlers
- In case there is tie in ratings at the end of round , time factor wi l be
- taken into consideration.
- Top two participants from each team wi l be qualified for the next
- round
- Also to boost the participants score there wi l be a bonus question
- regarding Impact player for that stadium where your cricketing
- knowledge wi l come into play and need to choose best Impact player
- out of given options for that particular stadium given.
+The second round will be to make the ultimate team.
+Top 30 members shortlisted for round 2 will be randomly divided
+in 5 groups of 6 participants each.
+On the basis of the given criterions(mentioned below), participants
+need to make the best team possible.
+In this round participants have to assign rating to the players in
+their set on the basis of their likings from 1 to 10.
+Average of all ratings given by participants of that group to each
+player will be displayed in front of every participant.
+All players in the set will be given a fixed price.
+Participants will be given a budget in which they need to make the
+best team.
+Also participants will be given a stadium , the knowledge/facts
+about the pitch of that stadium should be kept in mind by
+participants while making teams.
+There will be deductions or additions in total teams ratings
+considering these stadium factors at the end. (Example = Banglore
+Pitch is good for batters so Batsman ratings in your team will
+increase by +1/+0.5 while calculating the final results.)
+Number of players from each category should be taken in
+consideration.
+Criterion for creating teams: 1 wicket keeper, 3 batsman, 3 bowlers
+In case there is tie in ratings at the end of round , time factor will be
+taken into consideration.
+Top two participants from each team will be qualified for the next
+round
+Also to boost the participants score there will be a bonus question
+regarding Impact player for that stadium where your cricketing
+knowledge will come into play and need to choose best Impact
+player out of given options for that particular stadium given.
 ROUND 3
- ROUND 3
- There wi l be 10 teams entering the Auction. The venue of the Auction
- wi l be conveyed beforehand.
- Each team wil be alotted a budget of 90 Crores to buy various players
- in the Auction.
- There wi l be a grand pool of 180 players who wi l be auctioned.
- Each player wi l enter the auction with an initial base price, ahead of
- which, the bidding wi l start. There are no restrictions on the value to
- which a player can go in the auction.
- Before the start of the auction, the players being auctioned wi l be
- categorized into sets (similar to the actual auction). After the
- completion of a set, there wi l be a 5-minute break during which the
- teams can discuss further strategies.
- The player being auctioned at the moment wi l be displayed to a l the
- teams accordingly.
- If a player fetches no bids, he goes unsold and may only return to a
- rebid after the completion of a l sets.
- There wi l also be 2 Right To Match Cards (RTMs) a lotted to each team
- which they can exercise during the auction to match the final bid of a
- player to snatch him from another team who had the closing bid.
- After the conclusion of the Auction, if any team fails to meet the squad– constraints, the team wi l be disqualified instantly. 
+There will be 10 teams entering the Auction. The venue of the
+Auction will be conveyed beforehand.
+Each team will be allotted a budget of 90 Crores to buy various
+players in the Auction.
+There will be a grand pool of 180 players who will be auctioned.
+Each player will enter the auction with an initial base price, ahead of
+which, the bidding will start. There are no restrictions on the value to
+which a player can go in the auction.
+Before the start of the auction, the players being auctioned will be
+categorized into sets (similar to the actual auction). After the
+completion of a set, there will be a 5-minute break during which the
+teams can discuss further strategies.
+The player being auctioned at the moment will be displayed to all the
+teams accordingly.
+If a player fetches no bids, he goes unsold and may only return to a
+rebid after the completion of all sets.
+There will also be 2 Right To Match Cards (RTMs) allotted to each
+team which they can exercise during the auction to match the final bid
+of a player to snatch him from another team who had the closing bid.
+After the conclusion of the Auction, if any team fails to meet the squad– constraints, the team will be disqualified instantly.
+SQUAD CONSTRAINTS
 A team must conclude with a squad of at least 13 and at most 17 players.
- Furthermore, the Playing 11 can consist of:
- Batsmen: Minimum 3; Maximum 6
- Bowlers: Minimum 3; Maximum 6
- Wicketkeepers: Minimum 1; Maximum 3
- Alrounders: Minimum: 1; Maximum 3
- Overseas Players: 3 or 4 are mandatory in
- the playing 11; Maximum 6 in the squad.
- Uncapped Players: Atleast 1 in playing 11
- Legends: At most 1 in the squad.
+Furthermore, the Playing 11 can consist of:
+Batsmen: Minimum 3; Maximum 6
+Bowlers: Minimum 3; Maximum 6
+Wicketkeepers: Minimum 1; Maximum 3
+Allrounders: Minimum: 1; Maximum 3
+Overseas Players: 3 or 4 are mandatory in
+the playing 11; Maximum 6 in the squad.
+Uncapped Players: Atleast 1 in playing 11
+Legends: At most 1 in the squad.
 TEAM FORMATION
- TEAM FORMATION
- The participants that qualify for this round are required to form a team
- of 3 members.
- The team members cannot be any of the other qualified participants.
- The team members should have participated in Round 1.
- You are required to submit your team to the event coordinators as per
- the deadline.
- The teams wil get to select their bidding franchise as per the
- leaderboard of Round 2.
- The bidding franchise you choose is very vital because you get the
- RTMs for a player who actua ly plays for the franchise.
- The auction is a l about strategic bids and you wi l get ample amount of
- time to strategize before and during the Auction.
- POINTS SYSTEM
- POINTS SYSTEM
- Each player in the Auction pool wi l have a rating out of 10.
- At the conclusion of the Auction, the teams wi l be required to submit
- their Playing 11 along with the appointed Captain and Vice-Captain.
- The submitted Playing 11 should strictly fo low the Squad constraints,
- else wi l result in an immediate disqualification.
- The Captain and Vice-Captain tags that you a locate to players of your
- Playing 11 wi l act as score multipliers during the ta lying of scores.
- Captain and Vice-Captain have a score multiplier of 2x and 1.5x
- respectively.
- The final scores of each of the teams wi l be calculated by aggregating
- the ratings (with the assigned score multipliers) of a l the players of the
- Playing 11.
- The top 3 teams with the highest aggregate ratings wi l be crowned the
- Winners of the Auction and CricWars.
-QUESTION TYPES
- QUESTION TYPES
- Questions can be single correct, worth 2/4 marks each (25
- questions)
- Multiple correct questions are worth 6 marks each (5
- questions), but be cautious—selecting incorrect options in
- these questions means you won't earn any points for that
- particular question.
- ACCURACY IS KEY
- ACCURACY IS KEY
- To succeed, be both quick and accurate in your responses.
- The faster you answer, the better your chances.
- ADVANCEMENT
- ADVANCEMENT
- The top 30 contestants wi l proceed to the next round. If a
- contestant is absent on the day of round 2, the next in line
- wi l have an opportunity to participate.
- 30 Random questions wi l be selected for a particular
- participant from a pool of questions.
+The participants that qualify for this round are required to form a
+team of 3 members.
+The team members cannot be any of the other qualified
+participants.
+The team members should have participated in Round 1.
+You are required to submit your team to the event coordinators as
+per the deadline.
+The teams will get to select their bidding franchise as per the
+leaderboard of Round 2.
+The bidding franchise you choose is very vital because you get the
+RTMs for a player who actually plays for the franchise.
+The auction is all about strategic bids and you will get ample amount
+of time to strategize before and during the Auction.
+POINTS SYSTEM
+Each player in the Auction pool will have a rating out of 10.
+At the conclusion of the Auction, the teams will be required to submit
+their Playing 11 along with the appointed Captain and Vice-Captain.
+The submitted Playing 11 should strictly follow the Squad constraints,
+else will result in an immediate disqualification.
+The Captain and Vice-Captain tags that you allocate to players of your
+Playing 11 will act as score multipliers during the tallying of scores.
+Captain and Vice-Captain have a score multiplier of 2x and 1.5x
+respectively.
+The final scores of each of the teams will be calculated by aggregating
+the ratings (with the assigned score multipliers) of all the players of
+the Playing 11.
+The top 3 teams with the highest aggregate ratings will be crowned
+the Winners of the Auction and CricWars.
+???
+FANDOM
 GENERAL INSTRUCTIONS
- GENERAL INSTRUCTIONS
- Registering for the event wi l be done beforehand. On the
- spot registrations are welcomed.
- Only the leader of the formed team is to fi l the form, a l
- members of the team must not fil the form.
- Registration fees for the same is ₹70 per team.
- Participants are to form a team of 4 to 7 members
- There wi l be 2 rounds to the event. The first round wi l be of
- 1 hour and the second wi l be for 45 minutes.
- Clues can be placed inside or outside co lege, no restrictions
- Volunteers wi l be present with the teams to avoid
- confusion and to maintain crowd control.
- ROUND 1
- ROUND 1
- Participants wi l be shown the campus for the first 5
- minutes of this round
- This round wi l consist of 20 clues. At every stage one(or
- two) lesser than the previous number of clues wi l be found.
- The hunt wil take place inside and around the co lege
- campus.
- The last 7 teams standing wi l move on to the next round.
+Participation should be in a group of minimum 2 or
+maximum 5 members.
+Registration Fee for each team will be Rs. 60.
+All the participants must be present 15 minutes before
+the event.
+Participants are required to register on the official
+website of Xenia.
+No third-party entries or transfer of registration will be
+entertained.
+All the participants must maintain proper decorum.
+Any participant caught cheating shall be disqualified.
+Prize Pool of Rs. 5000 which comprises Rs. 3000 as the
+first prize and Rs. 2000 as the second prize.
+ROUND 1
+Consist of 40 MCQs based on the famous series, movies
+and dramas.
+The Game will be played in Online mode every team’s
+leader will be provided with a portal link on which they
+need to answer the multiple choice questions.
+The marks will be allotted based on correct answers.
+Top scorers will be promoted to the next round.
 ROUND 2
- ROUND 2
- This round wi l be strictly within the co lege
- The round wil last 45 minutes.
- Each clue wi l lead the teams to a QR code which is to be
- scanned and decrypted to move on to the next location
- closer to the treasure.
- The QR wil be clues in visual form and not words
- There wi l be a time limit to these clues.
- No extra time wi l be given.
- MALPRACTICES
- MALPRACTICES
- Use of mobile phones in the first round is not a lowed.
- Changing teams during the hunt wi l not be permitted
- Picking up of more than 1 clue by a team at clue location is
- not a lowed.
- The behaviour of a l contestants wi l be strictly observed
- and there sha l be no absurd act by any individual towards
- the opponents or the volunteers or the organisers
+The round will be having some special credits on the basis
+of the theme your teammates follow. Teams with the most
+relevant theme will get some grace credits through which
+their chance to get to the next round , becomes more.
+Participants will be provided with an application of a
+Buzzer and the fastest buzzer activator will be given a
+chance to answer the question read out by the host.
+The round will consist of 15 questions out of which first 10
+will be based on one word answer or complete the dialogue
+and the next 5 will be based on performing hook steps of
+various popular songs.
+The questions will revolve around famous dance moves of
+popular songs, followed by well-known scene remakes.
+Top 4 teams will be promoted to the next round.
+ROUND 3
+This round consists of 3 GDs of 15 minutes each.
+Each team will get 10 minutes to prepare for the round.
+The winner of each GD will go for the final round.
+You will be provided some hot controversial topics in which
+you will have to put up your points suppressing the others. 
+The top 2 teams will be promoted to the final round.
+The winner will be decided from these teams.
+???
+HORCRUX HUNT
+GENERAL INSTRUCTIONS
+Registrations for the event can be done beforehand or on
+the spot. 
+Only the leader of the formed team has to fill the form.
+Registration fees for the same is ₹70 per team.
+Participants are to form a team of 4 to 5 members
+There will be only 1 round. The hunt will end at 7pm
+sharp.
+The entire hunt will proceed with the help of a web
+based platform in college. 
+Volunteers will be present with the teams to avoid
+confusion and to maintain crowd control.
+RULES
+To solve a question, you have to find the keyword AND
+be present at the correct location for the platform to
+accept your answer.
+The QR codes will be hidden at the locations.
+The platform will show the question as well the location
+hint along with a QR scanner which verifies the location.
+Every team will have the same order of questions, but
+different locations for each question to avoid crowding.
+A team can progress the leaderboard by solving more
+questions. The team on top of the leaderboard at 7pm
+wins.
+???
+XENIA’S GOT LATENT
+RULES
+Performance Duration:
+Each act will have a maximum of 90 seconds to perform.
+Requirements:
+Participants must bring all the necessary materials,
+props, or equipment required for their performance. The
+event organizers will not provide any additional
+resources.
+Registration, Scoring, and Progression:
+Before performing, participants must fill out a Google
+Form containing their personal details. This form is
+mandatory for participation.
+Participants must self-assess and provide a score for
+their performance before the act begins.
+After the performance, judges will score the act. To
+progress to the next round, the participant’s self
+assessed score must match the judges' score.
+If no participant's score matches the judges' score, the
+participant with the closest score will advance to the
+next round.
+All winners from Round 1 will proceed to Round 2,
+which will be decided based on the results of Round 1.
+Judging Decisions:
+In the event of a tie or if points are not identical, the
+closest score will be awarded the prize or
+progression.
+The judges have full authority to decide on Round 2
+based on the results of Round 1.
+In all cases, decisions of the judges are final and will
+not be open to discussion.
+Talent Categories:
+Performances can include (but are not limited to):
+Singing, Dancing, Instrumental music, Skits, Magic,
+Comedy, Martial arts, and Juggling.
+Note: Lip-syncing is not allowed.
+Content Restrictions:
+Performances must not include profanity,
+insensitive subject matter, or anything deemed
+inappropriate by the judges.
+If a participant performs anything offensive or
+inappropriate, they will be solely responsible for the
+consequences. The PCSB club holds no
+responsibility for such actions.
+RULES
+Prizes:
+Prizes will be awarded for 1st place and 2nd place
+performances.
+Judges’ Authority:
+All rights related to decisions for progression to
+Round 2 are reserved by the judges.
+In all cases, decisions of the judges are final and
+binding, and will not be open to discussion or
+debate.
+
+
