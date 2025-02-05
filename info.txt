@@ -1,3 +1,11 @@
+Technical events of Xenia :
+HACK-O-WARTS HACK-O-WARTS,CODER’S CHAMBER CODER’S CHAMBER,GOBLET OF DEBUGGERS GOBLET OF DEBUGGERS
+CAMPUS TO CORPORATE CAMPUS TO CORPORATE
+???
+nontech events:
+TUG OF WAR TUG OF WAR,
+CRICWARS CRICWARS,FANDOM FANDOM,HORCRUX HUNT HORCRUX HUNT,XENIA’S GOT LATENT
+???
 HACK-O-WARTS
 GENERAL INSTRUCTIONS
 Registration fee for this event is Rs. 120 only.
@@ -446,5 +454,3 @@ Round 2 are reserved by the judges.
 In all cases, decisions of the judges are final and
 binding, and will not be open to discussion or
 debate.
-
-
